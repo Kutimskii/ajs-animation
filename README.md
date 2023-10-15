@@ -1,2 +1,2 @@
 # Animation
-[![Build status](https://ci.appveyor.com/api/projects/status/b3l0ltfnw537adsr?svg=true)](https://ci.appveyor.com/project/Kutimskii/ajs-http)
+[![Build status](https://ci.appveyor.com/api/projects/status/mgsb4otf7jtr9t5g?svg=true)](https://ci.appveyor.com/project/Kutimskii/ajs-animation)
